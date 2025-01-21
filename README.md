@@ -12,6 +12,4 @@ Here is a junior fullstack developer from Saint Petersburg, Russia
 
 ### Currenty I'm
 
-🎨 creating website with my photo gallery
-
 🤝 maintaining the projects below
