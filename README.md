@@ -8,6 +8,10 @@ Here is a junior fullstack developer from Saint Petersburg, Russia
 
 **Frameworks**. NextJS, Express
 
+**Testing**. Chai, Mocha
+
+**Bundler**. Rollup
+
 **DBMS**. Apache couchDB, mongoDB
 
 **Other libraries**. React, Redux
