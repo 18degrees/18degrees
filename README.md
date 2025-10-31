@@ -12,7 +12,7 @@ Here is a junior fullstack developer from Saint Petersburg, Russia
 
 **Bundler**. Rollup
 
-**DBMS**. Apache couchDB, mongoDB
+**DBMS**. Apache couchDB, mongoDB (noSQL); PostgreSQL
 
 **Other libraries**. React, Redux
 
@@ -20,6 +20,4 @@ Here is a junior fullstack developer from Saint Petersburg, Russia
 
 ### Currenty I'm
 
-🐳 learning Docker
-
-🤝 maintaining the projects below
+Learning ML
